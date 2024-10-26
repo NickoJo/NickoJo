@@ -9,4 +9,4 @@
 - System Analyst at _Philip Morris International_, 2023 - present
 
 #
-🔭 I’m currently working on _llamator_ project at _AI Security Lab_, ITMO University  
+🔭 I’m currently working on _[llamator](https://github.com/RomiconEZ/llamator)_ project at _AI Security Lab_, ITMO University  
