@@ -3,7 +3,7 @@
 ### 🎓 Education
 - Yandex Lyceum, 2018 - 2019
 - Bachelor's Degree in *Information Security*, ITMO University, 2020 - 2024
-- Master's Degree in *AI, AI Talent Hub*, ITMO University 2024 - 2026
+- Master's Degree in *Artificial Intelligence*, AI Talent Hub, ITMO University 2024 - 2026
 
 ### 💼 Work Experience
 - System Analyst at _Philip Morris International_, 2023 - present
