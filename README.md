@@ -5,8 +5,5 @@
 - Bachelor's Degree in *Information Security*, ITMO University, 2020 - 2024
 - Master's Degree in *Artificial Intelligence*, AI Talent Hub, ITMO University 2024 - 2026
 
-### 💼 Work Experience
-- System Analyst at _Philip Morris International_, 2023 - present
-
 #
 🔭 I’m currently working on _[llamator](https://github.com/RomiconEZ/llamator)_ project at _AI Security Lab_, ITMO University  
